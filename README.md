@@ -1,5 +1,6 @@
 version 1.0 PR: 
 
+
 # Text Classification
 
 In this project, we performed Text Classification With Python and Keras.
