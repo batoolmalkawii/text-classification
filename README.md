@@ -1,4 +1,4 @@
-version 1.0 PR: 
+version 1.0 PR: https://github.com/batoolmalkawii/text-classifier/pull/1
 
 
 # Text Classification
